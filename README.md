@@ -1,3 +1,3 @@
 # My Personal WebSite
 
-[Click Here](https://shekharreddy4.github.io/){: .btn}
+<button type="button" class="btn" href="https://shekharreddy4.github.io/">Shekhar Reddy</button>
