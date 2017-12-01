@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Byte of Jenkins"
-date: 2012-05-22
+date: 2017-Dec-01
 excerpt: "A small post on my learning towards mastering Jenkins."
 tags: [post, jenkins, Devops, Learning]
 comments: true
