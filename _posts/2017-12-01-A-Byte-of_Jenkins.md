@@ -7,4 +7,16 @@ tags: [post, jenkins, Devops, Learning]
 comments: true
 ---
 
-In this post I am going to explain how i got it successfully created and setup a CI tool for a project on my own.
+In this post I am going to explain how i got it successfully created and setup a CI tool(Jenkins) for a project hosted on github.
+
+**Note: Presuming that you have installed the jenkins server locally on your machine or ona server remotely**
+
+# Configuring Jenkins
+
+# Pipeline vs FreeStyle
+
+# Sample Pipeline Project Triggered from Github
+
+# Hosting to an IIS Server using POSH script
+
+# 
