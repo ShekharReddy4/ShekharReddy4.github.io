@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/shekharreddy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://shekharreddy4.github.io
+  * I am shekharreddy (https://keybase.io/shekharreddy) on keybase.
+  * I have a public key ASAESihLvlV_itMRdQYMszMqsbnvEWZdulVr6wdYp5fwsgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120044a284bbe557f8ad31175060cb3332ab1b9ef11665dba556beb0758a797f0b20a",
+      "host": "keybase.io",
+      "kid": "0120044a284bbe557f8ad31175060cb3332ab1b9ef11665dba556beb0758a797f0b20a",
+      "uid": "fefc899d5cc9981da9eb1b1733b49e19",
+      "username": "shekharreddy"
+    },
+    "merkle_root": {
+      "ctime": 1521721150,
+      "hash": "33bd18bf79a5f9cc869063922eae39ce18459a3e0b99fc3cdfda1599131321290e825df64a0ecbfd641572525a80bc8c82b3034c1e069b52369228d2e5a59a44",
+      "hash_meta": "b31ff654d08180fbc2c85f6fb0c4579f31cc5ea3dfd3236066bf5bdbe65320ed",
+      "seqno": 2271818
+    },
+    "service": {
+      "hostname": "shekharreddy4.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1521721209,
+  "expire_in": 504576000,
+  "prev": "b42b675fd671826b406fe1e1793d3675bbfec2fb646874368d57df767e7b3369",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgBEooS75Vf4rTEXUGDLMzKrG57xFmXbpVa+sHWKeX8LIKp3BheWxvYWTFA1N7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMDQ0YTI4NGJiZTU1N2Y4YWQzMTE3NTA2MGNiMzMzMmFiMWI5ZWYxMTY2NWRiYTU1NmJlYjA3NThhNzk3ZjBiMjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMDQ0YTI4NGJiZTU1N2Y4YWQzMTE3NTA2MGNiMzMzMmFiMWI5ZWYxMTY2NWRiYTU1NmJlYjA3NThhNzk3ZjBiMjBhIiwidWlkIjoiZmVmYzg5OWQ1Y2M5OTgxZGE5ZWIxYjE3MzNiNDllMTkiLCJ1c2VybmFtZSI6InNoZWtoYXJyZWRkeSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUyMTcyMTE1MCwiaGFzaCI6IjMzYmQxOGJmNzlhNWY5Y2M4NjkwNjM5MjJlYWUzOWNlMTg0NTlhM2UwYjk5ZmMzY2RmZGExNTk5MTMxMzIxMjkwZTgyNWRmNjRhMGVjYmZkNjQxNTcyNTI1YTgwYmM4YzgyYjMwMzRjMWUwNjliNTIzNjkyMjhkMmU1YTU5YTQ0IiwiaGFzaF9tZXRhIjoiYjMxZmY2NTRkMDgxODBmYmMyYzg1ZjZmYjBjNDU3OWYzMWNjNWVhM2RmZDMyMzYwNjZiZjViZGJlNjUzMjBlZCIsInNlcW5vIjoyMjcxODE4fSwic2VydmljZSI6eyJob3N0bmFtZSI6InNoZWtoYXJyZWRkeTQuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuNDUifSwiY3RpbWUiOjE1MjE3MjEyMDksImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiYjQyYjY3NWZkNjcxODI2YjQwNmZlMWUxNzkzZDM2NzViYmZlYzJmYjY0Njg3NDM2OGQ1N2RmNzY3ZTdiMzM2OSIsInNlcW5vIjo1LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQNeoaCylnByKfkD0dYCgEfto7wGJh4siqMin6lcVgioBKQxwc58mZ50Gd3okGX7tC7Vye7mDRa6OLqpMwnU9Zgqoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCB0BMAFzJG2hlBFox5gV7yVbKcGc078Rt1fAXK2+uGf76N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shekharreddy
+
+==================================================================
