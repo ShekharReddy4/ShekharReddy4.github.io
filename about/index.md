@@ -9,4 +9,4 @@ comments: false
 <center>hey, I am <a href="http://ShekharReddy4.github.io"><b>Shekhar Reddy</b></a>. A FullStack Developer</center>
 
 ## About
-Undergrad in Computer Science and Engineering.
+Graduate Student in Computer Science at Texas Tech University
