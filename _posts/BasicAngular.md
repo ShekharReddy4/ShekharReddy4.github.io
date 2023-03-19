@@ -12,9 +12,8 @@ Components are the building blocks that compose an application. A component incl
 
 For example, here is a simple component that displays "Hello World" and some text:
 
-Here is a blog post on basic understanding of Angular as a frontend framework:
 
-typescript
+```typescript
 import { Component } from '@angular/core';
 
 @Component({
@@ -75,4 +74,3 @@ and update your code efficiently.
 
 If you need to develop web apps with confidence and scalability,
 Angular might be the right choice for you!
-```
