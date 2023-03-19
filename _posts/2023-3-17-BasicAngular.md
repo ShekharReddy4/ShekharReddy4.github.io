@@ -1,3 +1,11 @@
+---
+layout: post
+title: "A Basic Understanding of Angular"
+date: 2023-Mar-17
+excerpt: "A small post on my learning towards mastering Angular."
+tags: [post, Angular, FullStack, Learning, FrontEnd]
+comments: true
+---
 # Basic Understanding of Angular as a Frontend Framework
 
 Angular is a development platform, built on TypeScript, that lets you create web applications with confidence. It is one of the popular front-end frameworks whose source language is TypeScript . It is mainly a modified version of AngularJS and developed by Google . It is a component-based framework and offers two-way data-binding.

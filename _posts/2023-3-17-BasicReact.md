@@ -1,3 +1,11 @@
+---
+layout: post
+title: "A Basic Understanding of React"
+date: 2023-Mar-17
+excerpt: "A small post on my learning towards mastering React."
+tags: [post, Angular, FullStack, Learning, FrontEnd]
+comments: true
+---
 # Basic Understanding of React as a Frontend Framework
 
 React is a popular open-source JavaScript library for creating fast and scalable web apps. It is essentially a frontend framework that lets you create interactive user interfaces quickly and easily. React allows you to create dynamic web apps where the data on UIs is updated constantly.
